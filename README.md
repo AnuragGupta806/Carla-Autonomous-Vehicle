@@ -13,7 +13,7 @@ First part of our project involved detecting real world objects in carla simulat
 - Youtube video of its Live Demo can be found at this [Link](https://www.youtube.com/watch?v=Vct5sLkOILU&t=56s)
 
 ## Phase 2: Road Detection using Semantic Segmentation
-In this phase, we trained a road segmentation CNN model to to detect road pixels from the camera image. After that we used Random sample consensus(RANSAC), that estimates the road plane from given set of points by taking multiple sets if 3 random points and passing a plane through it.
+In this phase, we trained a road segmentation CNN model on the dataset of semantic images from carla to to detect road pixels from the camera image. After that we used Random sample consensus(RANSAC), that estimates the road plane from given set of points by taking multiple sets if 3 random points and passing a plane through it.
 
 - Road segmentation model file is present in 'Models' folder
 - Youtube video for the same can be found at this [Link]
