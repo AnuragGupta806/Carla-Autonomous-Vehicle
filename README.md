@@ -1,9 +1,9 @@
 # Carla-Autonomous-Vehicle
 ## Team Members
-1. Anurag Gupta
-2. Amit Gupta
-3. Mohd. Sahil
-4. Ankur Pratap Singh
+1. Anurag Gupta ([AnuragGupta806](https://github.com/AnuragGupta806))
+2. Amit Gupta ([AmitGupta7580](https://github.com/AmitGupta7580))
+3. Mohd. Sahil ([mds10](https://github.com/mds10))
+4. Ankur Pratap Singh ([Exyons](https://github.com/Exyons))
 
 ## Phase 1:Object Detection
 First part of our project involved detecting real world objects in carla simulated environment. For this, we took help of a well known detection model called YOLO4(You Only Look once) because of its great tradeoff between Speed and Accuracy.
